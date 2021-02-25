@@ -1,0 +1,17 @@
+.login-card{
+  width: 20%;
+  min-width: 400px;
+  height: 50%;
+  overflow: fragments;
+  text-align: center;
+  margin: 5% auto auto;
+
+  .mat-form-field{
+    width: 90%;
+    margin: 2% auto auto;
+  }
+  .mat-flat-button{
+    width: 90%;
+    margin: 2% auto auto;
+  }
+}
